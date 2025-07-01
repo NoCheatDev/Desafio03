@@ -51,6 +51,11 @@ a {
     
 }
 
+a:hover {
+    color: rgb(30, 59, 10);
+    transition: ;
+}
+
 article#flor {
     background-image: url('imagens/background001.jpg');
     background-size: cover;
