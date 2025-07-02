@@ -52,8 +52,7 @@ a {
 }
 
 a:hover {
-    color: rgb(30, 59, 10);
-    transition: ;
+    color: rgb(145, 123, 0);
 }
 
 article#flor {
@@ -85,6 +84,7 @@ article#livro {
     background-color: black;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.61);
     height: 700px;
+    background-position: center center;
 
 }
 
